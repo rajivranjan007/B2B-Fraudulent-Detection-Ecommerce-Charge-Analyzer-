@@ -28,9 +28,5 @@ The main output is presented in the `Result.xlsx` Excel workbook, which contains
 | Total Orders where X has been overcharged     | 382   | 33044.2672   |
 | Total Orders where X has been undercharged    | 7     | 109.2        |
 
-## Submission
-
-Submit your completed solution along with the `Result.xlsx` Excel workbook and your code in the chosen programming language.
-
 ## Author
 Rajiv Ranjan Kumar
