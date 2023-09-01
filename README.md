@@ -7,7 +7,7 @@ The input data comprises the following datasets:
 1. **Website Order Report**: Lists Order IDs, products (SKUs) in each order, and payment types.
 2. **Warehouse-to-Pincode Mapping**: Maps warehouse and delivery pincodes to zones.
 3. **SKU Master**: Contains product weights for weight calculations.
-4. **Courier Company Invoice (CSV)**: Includes AWB Numbers, Order IDs, weights, pincodes, charges, and shipment types.
+4. **Courier Company Invoice**: Includes AWB Numbers, Order IDs, weights, pincodes, charges, and shipment types.
 5. **Courier Charges Rate Card**: Provides charge details based on weight slabs and pincodes.
 
 ## Output Data
